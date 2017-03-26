@@ -6,7 +6,7 @@ Someone may find this useful -- for simple reference
 sh example.sh input1 input2
 output -- input1 and input 2
 
-:for using:
+:for usage:
 
 same as above without need of setting a static number of arguements
 
